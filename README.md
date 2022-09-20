@@ -1,6 +1,6 @@
-# Chinese Capitalizated
+# Chinese Capitalization
 
-Chinese Capitalizated is a Raycast Extension to Convert Arabic numbers to Chinese uppercase numbers.
+Chinese Capitalization is a Raycast Extension to Convert Arabic numbers to Chinese Capitalizated numbers.
 
 作为企业负责人，我经常处理合同，填写金额，非常麻烦，所以写了这个插件。
 
@@ -21,4 +21,4 @@ Thanks to the [nzh](https://github.com/cnwhy/nzh) library.
 
 ## License
 
-[Apache 2](https://github.com/Jax0rz/chinese-capitalizated/blob/main/LICENSE)
+[MIT](https://github.com/Jax0rz/chinese-capitalizated/blob/main/LICENSE)

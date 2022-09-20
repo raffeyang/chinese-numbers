@@ -1,3 +1,3 @@
-# Nzh Changelog
+# Chinese Capitalization Changelog
 
 ## [Initial Version] - 2022-09-20
