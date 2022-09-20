@@ -4,7 +4,7 @@ Chinese Capitalization is a Raycast Extension to Convert Arabic numbers to Chine
 
 作为企业负责人，我经常处理合同，填写金额，非常麻烦，所以写了这个插件。
 
-![screenshot](./assets/screenshot.png)
+![screenshot](./assets/screenshoot.png)
 
 特点如下:
 
