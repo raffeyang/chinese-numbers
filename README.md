@@ -4,6 +4,8 @@ Chinese Capitalizated is a Raycast Extension to Convert Arabic numbers to Chines
 
 作为企业负责人，我经常处理合同，填写金额，非常麻烦，所以写了这个插件。
 
+![screenshot](./assets/screenshot.png)
+
 特点如下:
 
 以字符串的方式转换，没有超大数及浮点数等问题(请自行对原数据进行四舍五入等操作)
