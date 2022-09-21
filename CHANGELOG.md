@@ -1,3 +1,3 @@
-# Chinese Capitalization Changelog
+# Chinese Numbers Changelog
 
 ## [Initial Version] - 2022-09-20

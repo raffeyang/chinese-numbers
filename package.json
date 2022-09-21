@@ -1,9 +1,9 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "chinese-capitalization",
-  "title": "Chinese Capitalization",
-  "description": "Convert Arabic numbers to Chinese Capitalizated numbers",
-  "icon": "chinese-capitalization.png",
+  "name": "chinese-numbers",
+  "title": "Chinese Numbers",
+  "description": "Convert Arabic numbers to Chinese numbers",
+  "icon": "chinese-numbers.png",
   "author": "Jax0rz",
   "owner": "jax0rz",
   "categories": [
@@ -13,9 +13,9 @@
   "commands": [
     {
       "name": "index",
-      "title": "Chinese Capitalization",
-      "subtitle": "Chinese Capitalization",
-      "description": "Convert Arabic numbers to Chinese Capitalizated numbers",
+      "title": "Chinese Numbers",
+      "subtitle": "Chinese Numbers",
+      "description": "Convert Arabic numbers to Chinese numbers",
       "mode": "view"
     }
   ],

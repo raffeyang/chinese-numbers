@@ -1,6 +1,6 @@
-# Chinese Capitalization
+# Chinese Numbers
 
-Chinese Capitalization is a Raycast Extension to Convert Arabic numbers to Chinese Capitalizated numbers.
+Chinese Numbers is a Raycast Extension to Convert Arabic numbers to Chinese numbers.
 
 作为企业负责人，我经常处理合同，填写金额，非常麻烦，所以写了这个插件。
 
