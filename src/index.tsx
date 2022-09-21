@@ -1,7 +1,8 @@
 import { Action, ActionPanel, List } from "@raycast/api";
 import { useState } from "react";
-let nzhcn = require("nzh/cn");
+import Nzh from "nzh";
 
+const nzhcn = Nzh.cn;
 const toChineseLowercase = (text: number) => nzhcn.encodeS(text);
 const toChineseCapitalizated = (text: number) => nzhcn.encodeB(text);
 const toScientificCountingMethod = (text: number) => nzhcn.encodeS(text);
