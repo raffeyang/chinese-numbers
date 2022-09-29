@@ -17,6 +17,14 @@ Chinese Numbers is a Raycast Extension to Convert Arabic numbers to Chinese numb
 - 阿拉伯数字转中文金额
   > 人民币壹拾万零壹佰壹拾壹元壹角壹分
 
+## Install
+
+<p align="center">
+<a title="Install Easy Dictionary Raycast Extension" href="https://www.raycast.com/isfeng/easydict#install">
+    <img height="64" style="height: 64px" src="https://assets.raycast.com/isfeng/easydict/install_button@2x.png">
+</a>
+</p>
+
 ## Thanks
 
 Thanks to the [nzh](https://github.com/cnwhy/nzh) library.
