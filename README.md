@@ -20,7 +20,7 @@ Chinese Numbers is a Raycast Extension to Convert Arabic numbers to Chinese numb
 ## Install
 
 <p align="center">
-<a title="Install Easy Dictionary Raycast Extension" href="https://www.raycast.com/isfeng/easydict#install">
+<a title="Install Easy Dictionary Raycast Extension" href="https://www.raycast.com/Jax0rz/chinese-numbers#install">
     <img height="64" style="height: 64px" src="https://assets.raycast.com/isfeng/easydict/install_button@2x.png">
 </a>
 </p>
