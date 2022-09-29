@@ -25,9 +25,9 @@ https://user-images.githubusercontent.com/7557357/193000297-7293ba06-4412-40a1-8
 ## Install
 
 <p align="center">
-<a title="Install Easy Dictionary Raycast Extension" href="https://www.raycast.com/Jax0rz/chinese-numbers#install">
-    <img height="64" style="height: 64px" src="./assets/install_button@2x.png">
-</a>
+        <a title="Install Chinese Numbers Raycast Extension" href="https://www.raycast.com/Jax0rz/chinese-numbers#install">
+          <img height="64" style="height: 64px" src="https://assets.raycast.com/Jax0rz/chinese-numbers/install_button@2x.png">
+        </a>      
 </p>
 
 ## Thanks
