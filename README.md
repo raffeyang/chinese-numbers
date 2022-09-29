@@ -8,7 +8,7 @@ Chinese Numbers is a Raycast Extension to Convert Arabic numbers to Chinese numb
 
 ## Demo
 
-https://user-images.githubusercontent.com/7557357/193000297-7293ba06-4412-40a1-8dc7-777847d78020.mp4
+https://user-images.githubusercontent.com/7557357/chinese-numbers.mp4
 
 
 ## Features:
