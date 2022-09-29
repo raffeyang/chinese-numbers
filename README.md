@@ -6,6 +6,11 @@ Chinese Numbers is a Raycast Extension to Convert Arabic numbers to Chinese numb
 
 ![screenshot](./assets/screenshoot.png)
 
+## Demo
+
+https://user-images.githubusercontent.com/7557357/193000297-7293ba06-4412-40a1-8dc7-777847d78020.mp4
+
+
 ## Features:
 
 - Arabic numbers to Chinese lowercase
