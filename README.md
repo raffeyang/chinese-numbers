@@ -6,22 +6,22 @@ Chinese Numbers is a Raycast Extension to Convert Arabic numbers to Chinese numb
 
 ![screenshot](./assets/screenshoot.png)
 
-特点如下:
+## Features:
 
-- 阿拉伯数字转中文小写
+- Arabic numbers to Chinese lowercase
   > 十万零一百一十一
-- 阿拉伯数字转中文大写
+- Arabic numbers to Chinese uppercase
   > 壹拾万零壹佰壹拾壹
-- 科学记数法字符串
+- Scientific notation string
   > 十二万三千四百五十六万万七千八百九十万亿
-- 阿拉伯数字转中文金额
+- Arabic numbers to Chinese amount
   > 人民币壹拾万零壹佰壹拾壹元壹角壹分
 
 ## Install
 
 <p align="center">
 <a title="Install Easy Dictionary Raycast Extension" href="https://www.raycast.com/Jax0rz/chinese-numbers#install">
-    <img height="64" style="height: 64px" src="https://assets.raycast.com/isfeng/easydict/install_button@2x.png">
+    <img height="64" style="height: 64px" src="./assets/install_button@2x.png">
 </a>
 </p>
 
