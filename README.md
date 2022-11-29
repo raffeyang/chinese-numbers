@@ -24,9 +24,7 @@ https://user-images.githubusercontent.com/7557357/193004459-ba393282-eff8-4356-8
 ## Install
 
 <p align="center">
-        <a title="Install Chinese Numbers Raycast Extension" href="https://www.raycast.com/Jax0rz/chinese-numbers#install">
-          <img height="64" style="height: 64px" src="https://assets.raycast.com/Jax0rz/chinese-numbers/install_button@2x.png">
-        </a>      
+<a href="https://www.raycast.com/raffeyang/chinese-numbers"><img src="https://www.raycast.com/raffeyang/chinese-numbers/install_button@2x.png" height="64" style="height: 64px;" alt=""></a>   
 </p>
 
 ## Thanks
